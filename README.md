@@ -128,4 +128,4 @@ yarn dev
 
 > លទ្ធផល
 
-![next-js-result thumbnail](/_thumbnail_doc/nextjs-result.jpg "Next JS Result")
+![next-js-result thumbnail](/_thumbnail_doc/nextjs-result.JPG "Next JS Result")
